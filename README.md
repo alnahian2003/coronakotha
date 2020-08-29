@@ -10,6 +10,6 @@ I usually used these technologies
  •jQuery
 
 # Attention
-It's a Minified Version of this web app. But if you badly need the original files then please get in touch here... https://facebook.com/alnahian2003 or https://twitter.com/alnahian2003  or  https://alnahian.xyz  or mail me a.alnahian2003@gmail.com
+It's a Minified Version of this web app. Download the original files here: https://github.com/alnahian2003/coronakothamainfiles
 
 # Thank You
