@@ -9,7 +9,4 @@ I actually used these technologies:
  •JavaScript
  •jQuery
 
-# Attention
-It's a Minified Version of this web app. Download the original files here: https://github.com/alnahian2003/coronakothamainfiles
-
 # Thank You
