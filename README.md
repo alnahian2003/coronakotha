@@ -1,5 +1,5 @@
 # Corona Kotha
-Corona Kotha v1.9 is the new version with amazing features and real-life updated data of over 195+ countries and verified API integrated modern web application to track the latest updates about Covid-19. Made With hearts By Abdullah Al Nahian
+Corona Kotha v1.6 is the new version with amazing features and real-life updated data of over 195+ countries and verified API integrated modern web application to track the latest updates about Covid-19. Made With hearts By Abdullah Al Nahian
 
 # Technologies
 I've used these technologies to build the complete project:
